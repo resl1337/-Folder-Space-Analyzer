@@ -48,3 +48,5 @@ Dark Themed Application
 
 📜 License
 This project is licensed under the MIT License.
+
+![image](https://github.com/user-attachments/assets/a1a4485b-e14a-4d45-bbdc-fa7ea5a1f4b2)
