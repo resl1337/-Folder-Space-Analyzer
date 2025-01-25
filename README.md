@@ -13,32 +13,22 @@ Folder Space Analyzer is a professional-grade, user-friendly tool that helps you
 📦 Installation
 Ensure you have Python 3.7+ installed on your system.
 Clone this repository:
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/folder-space-analyzer.git
 cd folder-space-analyzer
+
 Install the required dependencies:
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the application:
-bash
-Copy
-Edit
-python folder_space_analyzer.py
+
+python analyzator.py
 🛠️ Requirements
 Python 3.7 or later
 Dependencies:
 tkinter (included in most Python installations)
 ttkthemes
 sv_ttk
-To install missing packages, run:
 
-bash
-Copy
-Edit
+To install missing packages, run:
 pip install ttkthemes sv_ttk
 🧑‍💻 How to Use
 Launch the app.
@@ -55,5 +45,6 @@ Storage Optimization
 Professional GUI Tool
 Python Tkinter App
 Dark Themed Application
+
 📜 License
 This project is licensed under the MIT License.
