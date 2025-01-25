@@ -13,7 +13,7 @@ Folder Space Analyzer is a professional-grade, user-friendly tool that helps you
 📦 Installation
 Ensure you have Python 3.7+ installed on your system.
 Clone this repository:
-git clone https://github.com/yourusername/folder-space-analyzer.git
+git clone https://github.com/resl1337/folder-space-analyzer.git
 cd folder-space-analyzer
 
 Install the required dependencies:
